@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import { Nav, NavItem, NavLink } from 'reactstrap';
-import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
+import { Route } from 'react-router-dom';
 import NavBar from './Components/NavBar/NavBar';
 import data from './data';
 
